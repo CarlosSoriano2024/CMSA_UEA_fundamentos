@@ -18,3 +18,4 @@ print("\nLlamada 2:")
 print("Monto del descuento:", descuento_2)
 print("Monto final a pagar después del descuento:", monto_final_2)
 
+
